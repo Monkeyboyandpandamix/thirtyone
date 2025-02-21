@@ -1,0 +1,996 @@
+potatos takes from stock pile
+potatos discards EIGHT of DIAMONDS
+
+mo's turn
+Current hand: 
+JACK of SPADES
+KING of HEARTS
+SEVEN of DIAMONDS
+
+Top of discard: EIGHT of DIAMONDS
+mo takes from discard pile
+mo discards SEVEN of DIAMONDS
+
+mike's turn
+Current hand: 
+SEVEN of SPADES
+FOUR of CLUBS
+SIX of DIAMONDS
+
+Top of discard: SEVEN of DIAMONDS
+mike takes from discard pile
+mike discards FOUR of CLUBS
+
+jefferson's turn
+Current hand: 
+ACE of SPADES
+JACK of HEARTS
+SEVEN of CLUBS
+
+Top of discard: FOUR of CLUBS
+jefferson takes from stock pile
+jefferson discards SEVEN of CLUBS
+
+potatos's turn
+Current hand: 
+EIGHT of SPADES
+QUEEN of DIAMONDS
+TEN of DIAMONDS
+
+Top of discard: SEVEN of CLUBS
+potatos takes from stock pile
+potatos discards TWO of SPADES
+
+mo's turn
+Current hand: 
+JACK of SPADES
+KING of HEARTS
+EIGHT of DIAMONDS
+
+Top of discard: TWO of SPADES
+mo takes from stock pile
+mo discards EIGHT of DIAMONDS
+
+mike's turn
+Current hand: 
+SEVEN of SPADES
+SIX of DIAMONDS
+SEVEN of DIAMONDS
+
+Top of discard: EIGHT of DIAMONDS
+mike takes from discard pile
+mike discards SIX of DIAMONDS
+
+jefferson's turn
+Current hand: 
+ACE of SPADES
+JACK of HEARTS
+NINE of CLUBS
+
+Top of discard: SIX of DIAMONDS
+jefferson takes from stock pile
+jefferson discards NINE of CLUBS
+
+potatos's turn
+Current hand: 
+EIGHT of SPADES
+QUEEN of DIAMONDS
+TEN of DIAMONDS
+
+Top of discard: NINE of CLUBS
+potatos takes from discard pile
+potatos discards EIGHT of SPADES
+
+mo's turn
+Current hand: 
+JACK of SPADES
+KING of HEARTS
+TEN of CLUBS
+
+Top of discard: EIGHT of SPADES
+mo takes from stock pile
+mo discards THREE of HEARTS
+
+mike's turn
+Current hand: 
+SEVEN of SPADES
+SEVEN of DIAMONDS
+EIGHT of DIAMONDS
+
+Top of discard: THREE of HEARTS
+mike takes from stock pile
+mike discards SEVEN of SPADES
+
+jefferson's turn
+Current hand: 
+ACE of SPADES
+JACK of HEARTS
+QUEEN of CLUBS
+
+Top of discard: SEVEN of SPADES
+jefferson takes from stock pile
+jefferson discards JACK of HEARTS
+
+potatos's turn
+Current hand: 
+QUEEN of DIAMONDS
+TEN of DIAMONDS
+NINE of CLUBS
+
+Top of discard: JACK of HEARTS
+potatos takes from discard pile
+potatos discards NINE of CLUBS
+
+mo's turn
+Current hand: 
+JACK of SPADES
+KING of HEARTS
+TEN of CLUBS
+
+Top of discard: NINE of CLUBS
+mo takes from stock pile
+mo discards JACK of SPADES
+
+mike's turn
+Current hand: 
+SEVEN of DIAMONDS
+EIGHT of DIAMONDS
+NINE of SPADES
+
+Top of discard: JACK of SPADES
+mike takes from discard pile
+mike discards SEVEN of DIAMONDS
+
+jefferson's turn
+Current hand: 
+ACE of SPADES
+QUEEN of CLUBS
+TEN of HEARTS
+
+Top of discard: SEVEN of DIAMONDS
+jefferson takes from stock pile
+jefferson discards TWO of HEARTS
+
+potatos's turn
+Current hand: 
+QUEEN of DIAMONDS
+TEN of DIAMONDS
+JACK of HEARTS
+
+Top of discard: TWO of HEARTS
+potatos takes from stock pile
+potatos discards FIVE of CLUBS
+
+mo's turn
+Current hand: 
+KING of HEARTS
+TEN of CLUBS
+ACE of HEARTS
+
+Top of discard: FIVE of CLUBS
+mo takes from stock pile
+mo discards KING of HEARTS
+
+mike's turn
+Current hand: 
+EIGHT of DIAMONDS
+NINE of SPADES
+JACK of SPADES
+
+Top of discard: KING of HEARTS
+mike takes from discard pile
+mike discards EIGHT of DIAMONDS
+
+jefferson's turn
+Current hand: 
+ACE of SPADES
+QUEEN of CLUBS
+TEN of HEARTS
+
+Top of discard: EIGHT of DIAMONDS
+jefferson takes from stock pile
+jefferson discards QUEEN of CLUBS
+
+potatos's turn
+Current hand: 
+QUEEN of DIAMONDS
+TEN of DIAMONDS
+JACK of HEARTS
+
+Top of discard: QUEEN of CLUBS
+potatos takes from stock pile
+potatos discards THREE of DIAMONDS
+
+mo's turn
+Current hand: 
+TEN of CLUBS
+ACE of HEARTS
+JACK of CLUBS
+
+Top of discard: THREE of DIAMONDS
+mo takes from stock pile
+mo discards TEN of CLUBS
+
+mike's turn
+Current hand: 
+NINE of SPADES
+JACK of SPADES
+KING of HEARTS
+
+Top of discard: TEN of CLUBS
+mike takes from discard pile
+mike discards NINE of SPADES
+
+jefferson's turn
+Current hand: 
+ACE of SPADES
+TEN of HEARTS
+QUEEN of HEARTS
+
+Top of discard: NINE of SPADES
+jefferson takes from stock pile
+jefferson discards FOUR of DIAMONDS
+
+potatos's turn
+Current hand: 
+QUEEN of DIAMONDS
+TEN of DIAMONDS
+JACK of HEARTS
+
+Top of discard: FOUR of DIAMONDS
+potatos takes from stock pile
+potatos discards QUEEN of DIAMONDS
+
+mo's turn
+Current hand: 
+ACE of HEARTS
+JACK of CLUBS
+KING of SPADES
+
+Top of discard: QUEEN of DIAMONDS
+mo takes from stock pile
+mo discards JACK of CLUBS
+
+mike's turn
+Current hand: 
+JACK of SPADES
+KING of HEARTS
+TEN of CLUBS
+
+Top of discard: JACK of CLUBS
+mike takes from stock pile
+mike discards SIX of SPADES
+
+jefferson's turn
+Current hand: 
+ACE of SPADES
+TEN of HEARTS
+QUEEN of HEARTS
+
+Top of discard: SIX of SPADES
+jefferson takes from stock pile
+jefferson discards FOUR of SPADES
+
+potatos's turn
+Current hand: 
+TEN of DIAMONDS
+JACK of HEARTS
+KING of CLUBS
+
+Top of discard: FOUR of SPADES
+potatos takes from stock pile
+potatos discards TEN of DIAMONDS
+
+mo's turn
+Current hand: 
+ACE of HEARTS
+KING of SPADES
+KING of DIAMONDS
+
+Top of discard: TEN of DIAMONDS
+mo takes from stock pile
+mo discards EIGHT of HEARTS
+
+mike's turn
+Current hand: 
+JACK of SPADES
+KING of HEARTS
+TEN of CLUBS
+
+Top of discard: EIGHT of HEARTS
+mike takes from stock pile
+mike discards JACK of SPADES
+
+jefferson's turn
+Current hand: 
+ACE of SPADES
+TEN of HEARTS
+QUEEN of HEARTS
+
+Top of discard: JACK of SPADES
+jefferson takes from stock pile
+jefferson discards NINE of HEARTS
+
+potatos's turn
+Current hand: 
+JACK of HEARTS
+KING of CLUBS
+JACK of DIAMONDS
+
+Top of discard: NINE of HEARTS
+potatos takes from stock pile
+potatos discards JACK of HEARTS
+
+mo's turn
+Current hand: 
+ACE of HEARTS
+KING of SPADES
+KING of DIAMONDS
+
+Top of discard: JACK of HEARTS
+mo takes from stock pile
+mo discards FIVE of HEARTS
+
+mike's turn
+Current hand: 
+KING of HEARTS
+TEN of CLUBS
+TEN of SPADES
+
+Top of discard: FIVE of HEARTS
+mike takes from stock pile
+mike discards KING of HEARTS
+
+jefferson's turn
+Current hand: 
+ACE of SPADES
+TEN of HEARTS
+QUEEN of HEARTS
+
+Top of discard: KING of HEARTS
+jefferson takes from stock pile
+jefferson discards SIX of HEARTS
+
+potatos's turn
+Current hand: 
+KING of CLUBS
+JACK of DIAMONDS
+ACE of CLUBS
+
+Top of discard: SIX of HEARTS
+potatos takes from stock pile
+potatos discards NINE of DIAMONDS
+
+mo's turn
+Current hand: 
+ACE of HEARTS
+KING of SPADES
+KING of DIAMONDS
+
+Top of discard: NINE of DIAMONDS
+mo takes from stock pile
+mo discards SIX of CLUBS
+
+mike's turn
+Current hand: 
+TEN of CLUBS
+TEN of SPADES
+QUEEN of SPADES
+
+Top of discard: SIX of CLUBS
+mike takes from stock pile
+mike discards SEVEN of HEARTS
+
+jefferson's turn
+Current hand: 
+ACE of SPADES
+TEN of HEARTS
+QUEEN of HEARTS
+
+Top of discard: SEVEN of HEARTS
+jefferson takes from stock pile
+jefferson discards THREE of SPADES
+
+potatos's turn
+Current hand: 
+KING of CLUBS
+JACK of DIAMONDS
+ACE of CLUBS
+
+Top of discard: THREE of SPADES
+potatos takes from stock pile
+potatos discards TWO of CLUBS
+
+mo's turn
+Current hand: 
+ACE of HEARTS
+KING of SPADES
+KING of DIAMONDS
+
+Top of discard: TWO of CLUBS
+mo takes from stock pile
+mo discards KING of SPADES
+
+mike's turn
+Current hand: 
+TEN of CLUBS
+TEN of SPADES
+QUEEN of SPADES
+
+Top of discard: KING of SPADES
+mike takes from stock pile
+mike discards TWO of DIAMONDS
+
+jefferson's turn
+Current hand: 
+ACE of SPADES
+TEN of HEARTS
+QUEEN of HEARTS
+
+Top of discard: TWO of DIAMONDS
+jefferson takes from stock pile
+jefferson discards EIGHT of CLUBS
+
+potatos's turn
+Current hand: 
+KING of CLUBS
+JACK of DIAMONDS
+ACE of CLUBS
+
+Top of discard: EIGHT of CLUBS
+potatos takes from stock pile
+potatos discards KING of CLUBS
+
+mo's turn
+Current hand: 
+ACE of HEARTS
+KING of DIAMONDS
+ACE of DIAMONDS
+
+Top of discard: KING of CLUBS
+mo takes from stock pile
+mo discards SIX of DIAMONDS
+
+mike's turn
+Current hand: 
+TEN of CLUBS
+TEN of SPADES
+QUEEN of SPADES
+
+Top of discard: SIX of DIAMONDS
+mike takes from stock pile
+mike discards SIX of CLUBS
+
+jefferson's turn
+Current hand: 
+ACE of SPADES
+TEN of HEARTS
+QUEEN of HEARTS
+
+Top of discard: SIX of CLUBS
+jefferson takes from stock pile
+jefferson discards FIVE of CLUBS
+
+potatos's turn
+Current hand: 
+JACK of DIAMONDS
+ACE of CLUBS
+JACK of HEARTS
+
+Top of discard: FIVE of CLUBS
+potatos takes from stock pile
+potatos discards EIGHT of SPADES
+
+mo's turn
+Current hand: 
+ACE of HEARTS
+KING of DIAMONDS
+ACE of DIAMONDS
+
+Top of discard: EIGHT of SPADES
+mo takes from stock pile
+mo discards KING of DIAMONDS
+
+mike's turn
+Current hand: 
+TEN of CLUBS
+TEN of SPADES
+QUEEN of SPADES
+
+Top of discard: KING of DIAMONDS
+mike takes from stock pile
+mike discards NINE of CLUBS
+
+jefferson's turn
+Current hand: 
+ACE of SPADES
+TEN of HEARTS
+QUEEN of HEARTS
+
+Top of discard: NINE of CLUBS
+jefferson takes from stock pile
+jefferson discards SIX of HEARTS
+
+potatos's turn
+Current hand: 
+JACK of DIAMONDS
+ACE of CLUBS
+JACK of HEARTS
+
+Top of discard: SIX of HEARTS
+potatos takes from stock pile
+potatos discards EIGHT of DIAMONDS
+
+mo's turn
+Current hand: 
+ACE of HEARTS
+ACE of DIAMONDS
+JACK of CLUBS
+
+Top of discard: EIGHT of DIAMONDS
+mo takes from stock pile
+mo discards EIGHT of HEARTS
+
+mike's turn
+Current hand: 
+TEN of CLUBS
+TEN of SPADES
+QUEEN of SPADES
+
+Top of discard: EIGHT of HEARTS
+mike takes from stock pile
+mike discards FOUR of SPADES
+
+jefferson's turn
+Current hand: 
+ACE of SPADES
+TEN of HEARTS
+QUEEN of HEARTS
+
+Top of discard: FOUR of SPADES
+jefferson takes from stock pile
+jefferson discards TWO of HEARTS
+
+potatos's turn
+Current hand: 
+JACK of DIAMONDS
+ACE of CLUBS
+JACK of HEARTS
+
+Top of discard: TWO of HEARTS
+potatos takes from stock pile
+potatos discards NINE of SPADES
+
+mo's turn
+Current hand: 
+ACE of HEARTS
+ACE of DIAMONDS
+JACK of CLUBS
+
+Top of discard: NINE of SPADES
+mo takes from stock pile
+mo discards FIVE of DIAMONDS
+
+mike's turn
+Current hand: 
+TEN of CLUBS
+TEN of SPADES
+QUEEN of SPADES
+
+Top of discard: FIVE of DIAMONDS
+mike takes from stock pile
+mike discards NINE of HEARTS
+
+jefferson's turn
+Current hand: 
+ACE of SPADES
+TEN of HEARTS
+QUEEN of HEARTS
+
+Top of discard: NINE of HEARTS
+jefferson takes from stock pile
+jefferson discards TEN of HEARTS
+
+potatos's turn
+Current hand: 
+JACK of DIAMONDS
+ACE of CLUBS
+JACK of HEARTS
+
+Top of discard: TEN of HEARTS
+potatos takes from stock pile
+potatos discards FOUR of DIAMONDS
+
+mo's turn
+Current hand: 
+ACE of HEARTS
+ACE of DIAMONDS
+JACK of CLUBS
+
+Top of discard: FOUR of DIAMONDS
+mo takes from stock pile
+mo discards JACK of CLUBS
+
+mike's turn
+Current hand: 
+TEN of CLUBS
+TEN of SPADES
+QUEEN of SPADES
+
+Top of discard: JACK of CLUBS
+mike takes from stock pile
+mike discards TWO of CLUBS
+
+jefferson's turn
+Current hand: 
+ACE of SPADES
+QUEEN of HEARTS
+QUEEN of DIAMONDS
+
+Top of discard: TWO of CLUBS
+jefferson takes from stock pile
+jefferson discards THREE of DIAMONDS
+
+potatos's turn
+Current hand: 
+JACK of DIAMONDS
+ACE of CLUBS
+JACK of HEARTS
+
+Top of discard: THREE of DIAMONDS
+potatos takes from stock pile
+potatos discards SEVEN of HEARTS
+
+mo's turn
+Current hand: 
+ACE of HEARTS
+ACE of DIAMONDS
+KING of HEARTS
+
+Top of discard: SEVEN of HEARTS
+mo takes from stock pile
+mo discards FIVE of HEARTS
+
+mike's turn
+Current hand: 
+TEN of CLUBS
+TEN of SPADES
+QUEEN of SPADES
+
+Top of discard: FIVE of HEARTS
+mike takes from stock pile
+mike discards TEN of CLUBS
+
+jefferson's turn
+Current hand: 
+ACE of SPADES
+QUEEN of HEARTS
+QUEEN of DIAMONDS
+
+Top of discard: TEN of CLUBS
+jefferson takes from stock pile
+jefferson discards THREE of HEARTS
+
+potatos's turn
+Current hand: 
+JACK of DIAMONDS
+ACE of CLUBS
+JACK of HEARTS
+
+Top of discard: THREE of HEARTS
+potatos takes from stock pile
+potatos discards SEVEN of CLUBS
+
+mo's turn
+Current hand: 
+ACE of HEARTS
+ACE of DIAMONDS
+KING of HEARTS
+
+Top of discard: SEVEN of CLUBS
+mo takes from stock pile
+mo discards TWO of DIAMONDS
+
+mike's turn
+Current hand: 
+TEN of SPADES
+QUEEN of SPADES
+JACK of SPADES
+
+Top of discard: TWO of DIAMONDS
+mike knocks!
+mike takes from stock pile
+mike discards SEVEN of SPADES
+
+jefferson's turn
+Current hand: 
+ACE of SPADES
+QUEEN of HEARTS
+QUEEN of DIAMONDS
+
+Top of discard: SEVEN of SPADES
+jefferson takes from stock pile
+jefferson discards QUEEN of HEARTS
+
+potatos's turn
+Current hand: 
+JACK of DIAMONDS
+ACE of CLUBS
+JACK of HEARTS
+
+Top of discard: QUEEN of HEARTS
+potatos takes from stock pile
+potatos discards JACK of DIAMONDS
+
+mo's turn
+Current hand: 
+ACE of HEARTS
+ACE of DIAMONDS
+KING of HEARTS
+
+Top of discard: JACK of DIAMONDS
+mo takes from stock pile
+mo discards THREE of CLUBS
+
+Round Over!
+mike's score: 30
+jefferson's score: 21
+potatos's score: 21
+mo's score: 21
+jefferson loses a life! Remaining lives: 2
+potatos loses a life! Remaining lives: 1
+mo loses a life! Remaining lives: 0
+
+--- New Round ---
+
+mike's turn
+Current hand: 
+FOUR of HEARTS
+TEN of SPADES
+TWO of SPADES
+
+Top of discard: QUEEN of HEARTS
+mike takes from discard pile
+mike discards TWO of SPADES
+
+jefferson's turn
+Current hand: 
+NINE of SPADES
+SEVEN of HEARTS
+FIVE of SPADES
+
+Top of discard: TWO of SPADES
+jefferson takes from stock pile
+jefferson discards FIVE of SPADES
+
+potatos's turn
+Current hand: 
+TEN of CLUBS
+KING of SPADES
+FIVE of HEARTS
+
+Top of discard: FIVE of SPADES
+potatos takes from stock pile
+potatos discards FIVE of HEARTS
+
+mike's turn
+Current hand: 
+FOUR of HEARTS
+TEN of SPADES
+QUEEN of HEARTS
+
+Top of discard: FIVE of HEARTS
+mike takes from discard pile
+mike discards FOUR of HEARTS
+
+jefferson's turn
+Current hand: 
+NINE of SPADES
+SEVEN of HEARTS
+JACK of SPADES
+
+Top of discard: FOUR of HEARTS
+jefferson takes from stock pile
+jefferson discards SIX of CLUBS
+
+potatos's turn
+Current hand: 
+TEN of CLUBS
+KING of SPADES
+KING of HEARTS
+
+Top of discard: SIX of CLUBS
+potatos takes from stock pile
+potatos discards TEN of CLUBS
+
+mike's turn
+Current hand: 
+TEN of SPADES
+QUEEN of HEARTS
+FIVE of HEARTS
+
+Top of discard: TEN of CLUBS
+mike takes from discard pile
+mike discards FIVE of HEARTS
+
+jefferson's turn
+Current hand: 
+NINE of SPADES
+SEVEN of HEARTS
+JACK of SPADES
+
+Top of discard: FIVE of HEARTS
+jefferson takes from stock pile
+jefferson discards SEVEN of HEARTS
+
+potatos's turn
+Current hand: 
+KING of SPADES
+KING of HEARTS
+KING of DIAMONDS
+
+Top of discard: SEVEN of HEARTS
+potatos takes from stock pile
+potatos discards SIX of DIAMONDS
+
+mike's turn
+Current hand: 
+TEN of SPADES
+QUEEN of HEARTS
+TEN of CLUBS
+
+Top of discard: SIX of DIAMONDS
+mike takes from stock pile
+mike discards TEN of SPADES
+
+jefferson's turn
+Current hand: 
+NINE of SPADES
+JACK of SPADES
+EIGHT of HEARTS
+
+Top of discard: TEN of SPADES
+jefferson takes from discard pile
+jefferson discards EIGHT of HEARTS
+
+potatos's turn
+Current hand: 
+KING of SPADES
+KING of HEARTS
+KING of DIAMONDS
+
+Top of discard: EIGHT of HEARTS
+potatos takes from stock pile
+potatos discards KING of SPADES
+
+mike's turn
+Current hand: 
+QUEEN of HEARTS
+TEN of CLUBS
+ACE of CLUBS
+
+Top of discard: KING of SPADES
+mike takes from stock pile
+mike discards QUEEN of HEARTS
+
+jefferson's turn
+Current hand: 
+NINE of SPADES
+JACK of SPADES
+TEN of SPADES
+
+Top of discard: QUEEN of HEARTS
+jefferson knocks!
+jefferson takes from discard pile
+jefferson discards NINE of SPADES
+
+potatos's turn
+Current hand: 
+KING of HEARTS
+KING of DIAMONDS
+QUEEN of SPADES
+
+Top of discard: NINE of SPADES
+potatos takes from stock pile
+potatos discards TWO of HEARTS
+
+mike's turn
+Current hand: 
+TEN of CLUBS
+ACE of CLUBS
+QUEEN of CLUBS
+
+Top of discard: TWO of HEARTS
+mike takes from stock pile
+mike discards TEN of CLUBS
+
+jefferson's turn
+Current hand: 
+JACK of SPADES
+TEN of SPADES
+QUEEN of HEARTS
+
+Top of discard: TEN of CLUBS
+jefferson takes from stock pile
+jefferson discards JACK of SPADES
+
+Round Over!
+potatos's score: 10
+mike's score: 21
+jefferson's score: 10
+jefferson (knocker) loses two lives for not beating anyone!
+
+--- New Round ---
+
+potatos's turn
+Current hand: 
+KING of HEARTS
+KING of DIAMONDS
+QUEEN of SPADES
+TEN of HEARTS
+SIX of SPADES
+EIGHT of SPADES
+
+Top of discard: QUEEN of CLUBS
+potatos takes from discard pile
+potatos discards SIX of SPADES
+
+mike's turn
+Current hand: 
+ACE of CLUBS
+QUEEN of CLUBS
+ACE of DIAMONDS
+FIVE of DIAMONDS
+FOUR of SPADES
+QUEEN of DIAMONDS
+
+Top of discard: SIX of SPADES
+mike knocks!
+mike takes from discard pile
+mike discards FOUR of SPADES
+
+potatos's turn
+Current hand: 
+KING of HEARTS
+KING of DIAMONDS
+QUEEN of SPADES
+TEN of HEARTS
+EIGHT of SPADES
+QUEEN of CLUBS
+
+Top of discard: FOUR of SPADES
+potatos takes from stock pile
+potatos discards EIGHT of SPADES
+
+mike's turn
+Current hand: 
+ACE of CLUBS
+QUEEN of CLUBS
+ACE of DIAMONDS
+FIVE of DIAMONDS
+QUEEN of DIAMONDS
+SIX of SPADES
+
+Top of discard: EIGHT of SPADES
+mike takes from discard pile
+mike discards FIVE of DIAMONDS
+
+potatos's turn
+Current hand: 
+KING of HEARTS
+KING of DIAMONDS
+QUEEN of SPADES
+TEN of HEARTS
+QUEEN of CLUBS
+QUEEN of HEARTS
+
+Top of discard: FIVE of DIAMONDS
+potatos takes from stock pile
+potatos discards EIGHT of HEARTS
+
+Round Over!
+mike's score: 21
+potatos's score: 30
+mike (knocker) loses two lives for not beating anyone!
+
+Game Over! potatos wins!
