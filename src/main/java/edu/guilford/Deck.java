@@ -11,6 +11,7 @@ public class Deck {
         build();
     }
 
+    
     public ArrayList<Card> getDeck() {
         return deck;
     }
